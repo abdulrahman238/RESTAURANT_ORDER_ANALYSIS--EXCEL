@@ -6,8 +6,11 @@ A simple analysis of restaurant orders to see when customers order the most and 
 This project analyzes restaurant order records from January to December.  
 The dataset includes transaction dates and timestamps, with the aim of identifying patterns in customer ordering behavior across different months, days of the week, and times of the day.
 
-## 📊 Dashboard Preview
-restaurant.png
+
+## 📊 Dashboard Preview  
+
+![Restaurant Orders Dashboard](./restaurant.png)
+
 
 ## 📊 Key Questions
 - Which days of the week receive the most orders?  
