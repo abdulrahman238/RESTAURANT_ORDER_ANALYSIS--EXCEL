@@ -2,7 +2,7 @@
 A simple analysis of restaurant orders to see when customers order the most and the least, looking at times, days, and months
 # Restaurant Orders Analysis 🍽️
 
-![Coffee](restaurarestaurant111111111111.png)
+![Restaurant Orders Dashboard](./restaurant.png)
 
 ## 📌 Project Overview
 This project analyzes restaurant order records from January to December.  
@@ -11,7 +11,7 @@ The dataset includes transaction dates and timestamps, with the aim of identifyi
 
 ## 📊 Dashboard Preview  
 
-![Restaurant Orders Dashboard](./restaurant.png)
+![Restaurant Orders Dashboard](./orders.png)
 
 
 ## 📊 Key Questions
