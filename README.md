@@ -2,6 +2,8 @@
 A simple analysis of restaurant orders to see when customers order the most and the least, looking at times, days, and months
 # Restaurant Orders Analysis 🍽️
 
+![Coffee Sales Dashboard](Restaurant.png)
+
 ## 📌 Project Overview
 This project analyzes restaurant order records from January to December.  
 The dataset includes transaction dates and timestamps, with the aim of identifying patterns in customer ordering behavior across different months, days of the week, and times of the day.
